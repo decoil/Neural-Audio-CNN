@@ -2,7 +2,7 @@
 
 A deep learning-based audio classification system using ResNet-based Convolutional Neural Networks for real-time audio analysis.
 
-![Neural Audio CNN Interface](screenshot.png)
+![Neural Audio CNN Interface](audioCNN.png)
 
 ## Overview
 
